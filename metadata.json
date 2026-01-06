@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Copy of Simulador IA - Certificación EC0201.01",
-  "description": "Simulador de examen de 20 preguntas dinámicas con redacción compleja tipo STPS para la certificación CONOCER en Diseño de Cursos.",
+  "name": "Simulador de Certificación CONOCER EC0217.01",
+  "description": "Una aplicación avanzada de simulación de examen para la certificación EC0217.01, con generación dinámica de preguntas complejas al estilo STPS utilizando IA.",
   "requestFramePermissions": []
 }
